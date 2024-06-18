@@ -1,0 +1,9 @@
+Hash lock:
+
+smart lock deployed : https://whatsonchain.com/tx/f16d69606c5a8b972d65382a382ae0149cf995ef5d789f2eeadbb2427062183f
+contract unlocked successfully : https://whatsonchain.com/tx/def20bccae3810899580fe2326fbe05c9cb490880b96a4a422f9428e0120e53d
+
+
+Square root:
+smart lock deployed : https://whatsonchain.com/tx/97401c5a8342cce6102f13c5c5b99ff291b7cd722d862785dd8402feb9335d93
+contract unlocked successfully : https://whatsonchain.com/tx/a02175944282bbc273486911b4afd87050638d3ce4f9740dd24b818f65995ae8
