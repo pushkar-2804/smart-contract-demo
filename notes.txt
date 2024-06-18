@@ -7,3 +7,9 @@ contract unlocked successfully : https://whatsonchain.com/tx/def20bccae381089958
 Square root:
 smart lock deployed : https://whatsonchain.com/tx/97401c5a8342cce6102f13c5c5b99ff291b7cd722d862785dd8402feb9335d93
 contract unlocked successfully : https://whatsonchain.com/tx/a02175944282bbc273486911b4afd87050638d3ce4f9740dd24b818f65995ae8
+
+
+multiply numbers:
+
+Smart lock Deployed:https://whatsonchain.com/tx/a7b4a3b7c7c4081cbe49fd8eb2278bdfcb37398610ee96df6d0ce9153e859297
+Contract unlocked successfully : https://whatsonchain.com/tx/0c5dfc8404f5955ccb119ec86bdb385931d72284d48b184e31acadf5d2f91563
